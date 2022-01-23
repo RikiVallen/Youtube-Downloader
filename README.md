@@ -4,7 +4,7 @@
 
 `pip install colorama`
 
-``pip install pytube`
+`pip install pytube`
 
 ### Running the Program
 
