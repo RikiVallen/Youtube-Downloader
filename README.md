@@ -4,7 +4,7 @@
 
 `pip install colorama`
 
-``pip install pytube`
+`pip install pytube`
 
 ### Running the Program
 
@@ -12,9 +12,13 @@ Navigating this program will require you to enter a number as indicated in the `
 
 Upon loading the program, you will be greeted with 3 options.
 
+---
+
 `[1] Search`
 
 Search for a video via either a YouTube URL, or the title of the video or channel.
+
+---
 
 `[2] Configure`
 
@@ -33,4 +37,6 @@ Configure will open a sub-menu that allows you to tweak the default settings for
 ​	`[3] Set Download Location`		`default = C:\Users\(name)\Downloads`
 
 ​	Configure the location for downloads via a dialog popup window
+
+---
 
