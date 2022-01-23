@@ -30,7 +30,7 @@ Configure will open a sub-menu that allows you to tweak the default settings for
 
 ​	Configure how many tracks will be matched with the search parameter that is input by the user.
 
-> ​	Note that some searches may result in less than the limit
+> ​			Note that some searches may result in less than the limit
 
 ​	`[2] Audio Only Mode` 		`default = false`
 
