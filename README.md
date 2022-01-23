@@ -42,3 +42,6 @@ Configure will open a sub-menu that allows you to tweak the default settings for
 
 ---
 
+`[3] Exit`
+
+Exit the program.
