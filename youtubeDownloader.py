@@ -4,12 +4,10 @@ from pytube import Search, Channel
 from pathlib import Path
 import tkinter as tk
 from tkinter import filedialog
-root = tk.Tk()
 import os
 import datetime
 from colorama import init, Fore, Style
 init()
-root.withdraw()
 
 ## Default Global Variables
 data = {
