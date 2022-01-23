@@ -72,7 +72,7 @@ def search():
         print('Downloaded to location: ', data['downloadLocation'])
         print('--------------------------------------------------------')
     
-    print('Download another video? (y/n)')
+    print('\nDownload another video? (y/n)')
     continueDownloading = input("> ").lower()
     if continueDownloading == 'y':
         return True
@@ -166,7 +166,6 @@ def options():
         try:
             option = int(input('> '))
         except:
-            print('Invalid Option')
             break
 
         if option == 1:
