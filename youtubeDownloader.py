@@ -189,6 +189,8 @@ def options():
                 root = tk.Tk()
                 root.withdraw()
                 data['downloadLocation'] = filedialog.askdirectory()
+                if data['downloadLocation'] == "":
+                    data['downloadLocation'] = str(Path.home() / "Downloads")
                 root.destroy()
             except:
                 print('Invalid Option')
