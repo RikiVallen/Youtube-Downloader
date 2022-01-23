@@ -26,19 +26,19 @@ Search for a video via either a YouTube URL, or the title of the video or channe
 
 Configure will open a sub-menu that allows you to tweak the default settings for the program 
 
-​	`[1] Track Download Limit` 		`default = 5`
+​			`[1] Track Download Limit` 		`default = 5`
 
-​	Configure how many tracks will be matched with the search parameter that is input by the user.
+​			Configure how many tracks will be matched with the search parameter that is input by the user.		
 
 > ​			Note that some searches may result in less than the limit
 
-​	`[2] Audio Only Mode` 		`default = false`
+​			`[2] Audio Only Mode` 		`default = false`
 
-​	Configure whether the videos you download are in an audio only format
+​			Configure whether the videos you download are in an audio only format
 
-​	`[3] Set Download Location`		`default = C:\Users\(name)\Downloads`
+​			`[3] Set Download Location`		`default = C:\Users\(name)\Downloads`
 
-​	Configure the location for downloads via a dialog popup window
+​			Configure the location for downloads via a dialog popup window
 
 ---
 
